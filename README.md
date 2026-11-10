@@ -22,6 +22,9 @@ EventHub est une application de bureau en **Java** qui gère les événements or
 
 Projet réalisé en équipe dans le cadre du module de programmation orientée objet.
 
+## Mon rôle
+Dans l'équipe, j'ai pris en charge **la conception** de l'application : la modélisation UML, notamment le diagramme de classes (utilisateurs et rôles, salles, événements, réservations), qui a servi de base à l'organisation du code.
+
 ---
 
 ## Fonctionnalités
